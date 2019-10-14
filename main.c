@@ -197,7 +197,7 @@ int main(){
 
     int o;
     while(1){
-     printf("1)Append\n2)Length\n3)Display\n4)Add\n5)Delete\n6)Sort\nPlease enter the option: ");
+     printf("1)Append\n2)Length\n3)Display\n4)Add\n5)Delete\n6)Sort\nPlease enter the required option: ");
      scanf("%d",&o);
      switch(o){
      case 1:append();break;
