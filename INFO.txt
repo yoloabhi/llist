@@ -1,0 +1,3 @@
+https://pokedex.org/#/pokemon/3       (Venusaur)
+https://pokedex.org/#/pokemon/9	      (Blastoise)
+https://pokedex.org/#/pokemon/3       (Charizard)	      

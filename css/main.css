@@ -1,0 +1,89 @@
+body{
+background-image: url("https://preview.ibb.co/kcK7vA/bg.jpg");
+background-size: cover;
+background-attachment: fixed;
+               
+}
+.container{
+	width: 800px;
+	margin:auto;
+	background:url("https://preview.ibb.co/fcgj8V/bg2.jpg");
+	padding-left: 10px;
+	background-attachment: fixed;
+	background-size :cover;
+}
+header{
+	text-align: center;
+}
+.main-content{
+	height: 1000px;
+}
+a{
+	text-decoration: none;
+}
+
+.text{
+	width: 400px;
+	height: 45px;
+	border:none;
+	background-color: #000000;
+	outline: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #000000;
+	transition: 0.2s;
+	font-size: 15px;
+	font-weight: bold;
+	border: 3px solid #000000;
+	
+	
+}
+.text:hover{
+	background-color:#ffffff;
+	
+}
+.text:focus{
+	background-color:#ffffff;
+	
+}
+
+button{
+	height: 50px;
+	width: 110px;
+	border:none;
+	outline: none;
+	background-color: #000000;
+	transition: 0.3s;
+	color:white;
+	border:3px solid #000000;
+}
+button:hover{
+	color: #000000;
+	background-color: #ffffff;
+}
+button:active{
+	background-color:#000000;
+	color: #ffffff;
+	transition: 0.2s;
+}
+button p{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
+	font-weight: bold;
+	
+}
+#backtotop{
+	border-radius: 50%;
+	height: 50px;
+	width:50px;
+	margin-top: 40px;
+	transition: 0.4s;
+	opacity: 0.5; 
+}
+#backtotop:hover{
+	opacity: 1;
+}
+nav a{
+	/* margin: 20px; */
+	/* width:100px; */
+	/* display: inline-block; */
+}
